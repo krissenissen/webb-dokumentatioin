@@ -1,7 +1,7 @@
 # Dokuentation av GIT
 
 ### sammanfattning 
-fjhsdk
+Detta är en kort förklaring på hur man får git på sin mobil samt vissa komandon som bör kunna för att kunna fååå det att funka
 
 
 ### 1. Vad är ett käll/versionhanteringssystem?
